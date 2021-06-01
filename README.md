@@ -7,7 +7,7 @@
 </p> 
  
 <p align="left"> 
-  Dev: <strong>C, Python, Java.</strong> 
+  Dev: <strong>C, C++, C#, Python, SQL Server, PHP, JS.</strong> 
 </p> 
  
 <p align="left"> 
