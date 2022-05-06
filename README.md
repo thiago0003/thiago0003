@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> 
  
 <p align="left">  
-  Meu nome é Thiago Martins e eu sou graduanto de <strong>Computer Engineering student at Federal University of São Carlos(UFSCar) - Brazil</strong>.<br> 
+  Meu nome é Thiago Martins e eu sou graduando de <strong>Engenharia de Computação na Universidade Federal de São Carlos(UFSCar) - Brasil</strong>.<br> 
 </p> 
  
 <p align="left"> 
@@ -11,5 +11,5 @@
 </p> 
  
 <p align="left"> 
-  Plataformas: <strong>Visual Studio Code, NetBeans.</strong> 
+  Plataformas: <strong>Visual Studio Code, Visual Studio.</strong> 
 </p> 
