@@ -36,11 +36,6 @@ int main(int argc, char* argv[])
    <a href="https://en.wikipedia.org/wiki/RISCV">
   <img align="center" alt="Thiago-Asm" height="30" width="30" src="https://avatars.githubusercontent.com/u/10872782?s=200&v=4">
   </a>
-
-   <a href="https://zephyrproject.org/">
-  <img align="center" alt="Thiago-Zephyr" height="45" width="45" src="https://www.zephyrproject.org/wp-content/uploads/sites/38/2023/03/zephyr_project_r_stacked_color_positive_big.svg">
-  </a>
-
    <a href="https://git-scm.com">
   <img align="center" alt="Thiago-Git" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </a>
