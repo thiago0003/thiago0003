@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
     const char* workInfo = "Actually I'm working as Firmware Programmer and Reconfigurable Computing Researcher"
     const char* langs[] = { "Portuguese", "English", "Spanish" };
     const char* editor[] = "VSCode";
-    printf("Actually I am studying about FPGA (Field Programmable Gate Array), RISC-V and Zephyr RTOs.\n");
+    printf("Actually I am studying about FPGA (Field Programmable Gate Array), RISC-V and Linux.\n");
 
     return 0;
 }
